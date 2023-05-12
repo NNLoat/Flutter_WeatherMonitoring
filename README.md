@@ -2,11 +2,11 @@
 
 ## Project infomation
 
-ITCS424 Wireless and Mobile Computing 
-by
-Krisanakorn Rugbumroong 6388143
-Krissanaphol Rugbumroong 6388143
-Section 2
+ITCS424 Wireless and Mobile Computing <br />
+by<br />
+**Krisanakorn Rugbumroong 6388143<br />
+Krissanaphol Rugbumroong 6388143**<br />
+Section 2<br />
 
 ## How to run
 
